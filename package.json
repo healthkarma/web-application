@@ -55,7 +55,7 @@
     "jwks-rsa": "^1.5.1",
     "mini-css-extract-plugin": "^0.8.0",
     "navi": "^0.13.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "path": "^0.12.7",
     "progress-bar-webpack-plugin": "^1.12.1",
     "qs": "^6.7.0",
